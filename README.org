@@ -1,0 +1,8 @@
+#+BEGIN_SRC sh
+printf https://raw.github.com/%s/bitstarter/%s/index.html slitvinov bab8cd7a89f678d1a35fada37c52695345e14158
+#+END_SRC
+
+#+RESULTS:
+: https://raw.github.com/slitvinov/bitstarter/bab8cd7a89f678d1a35fada37c52695345e14158/index.html
+
+
