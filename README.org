@@ -5,4 +5,14 @@ printf https://raw.github.com/%s/bitstarter/%s/index.html slitvinov bab8cd7a89f6
 #+RESULTS:
 : https://raw.github.com/slitvinov/bitstarter/bab8cd7a89f678d1a35fada37c52695345e14158/index.html
 
+#+BEGIN_SRC sh
+h=350
+w=150
+printf http://placehold.it/%sx%s $h $w
+#+END_SRC
 
+#+RESULTS:
+: http://placehold.it/350x150
+
+Host images on
+[[http://imgur.com]]
